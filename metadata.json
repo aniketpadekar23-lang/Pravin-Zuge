@@ -1,0 +1,7 @@
+{
+  "name": "Ansh Real Estate - Professional Services",
+  "description": "A modern and responsive real estate services website for Panvel & Raigad, featuring a comprehensive admin dashboard for full content management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
